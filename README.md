@@ -14,16 +14,16 @@ Set quiz categories and difficulty levels
 
 Quiz Taking (User)
 Attempt quizzes from available categories
-Timed quizzes (optional)
+Timed quizzes 
 Score calculation and display
 
 Result Management
 View scores after each quiz
-Maintain a history of attempts (optional)
+Maintain a history of attempts 
 
 Data Persistence
 Save user data, questions, and scores
-Implemented via file storage or database (e.g., SQLite/MySQL)
+Implemented via file storage or database (MySQL)
 
 Tech Stack
 Language: Java
