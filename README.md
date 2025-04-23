@@ -29,3 +29,6 @@ Tech Stack
 Language: Java
 UI: Console-based
 Database:  MySQL
+
+To compile this code : javac -cp "lib/mysql-connector-j-9.3.0.jar" -d out src\main\Main.java src\dao\UserDAO.java src\dao\QuizDAO.java src\util\DBUtil.java
+To run the code : java -cp "lib/mysql-connector-j-9.3.0.jar;out" main.Main
